@@ -178,7 +178,7 @@
 	<key>FavBarConfig</key>
 	<dict>
 		<key>PBXProjectModuleGUID</key>
-		<string>FFA595B01253AB0200E7B52F</string>
+		<string>FFDA30CA1258A6B300F81B50</string>
 		<key>XCBarModuleItemNames</key>
 		<dict/>
 		<key>XCBarModuleItems</key>
@@ -265,14 +265,14 @@
 						<dict>
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
-								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>080E96DDFE201D6D7F000001</string>
+								<string>08FB7794FE84155DC02AAC07</string>
+								<string>08FB7795FE84155DC02AAC07</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>2</integer>
+									<integer>3</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -297,7 +297,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>182 289 788 504 0 0 1152 842 </string>
+						<string>294 234 788 504 0 0 1152 842 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -313,7 +313,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>NewAppAppDelegate.h</string>
+								<string>Tutorial.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -321,14 +321,14 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>NewAppAppDelegate.h</string>
+										<string>Tutorial.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>FFA595B5125519AB00E7B52F</string>
+										<string>FFDA30C71258A6B300F81B50</string>
 										<key>history</key>
 										<array>
-											<string>FFA595AC1253AB0200E7B52F</string>
+											<string>FFDA30C61258A6B300F81B50</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -342,7 +342,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {580, 277}}</string>
 								<key>RubberWindowFrame</key>
-								<string>182 289 788 504 0 0 1152 842 </string>
+								<string>294 234 788 504 0 0 1152 842 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -362,7 +362,7 @@
 								<key>Frame</key>
 								<string>{{0, 282}, {580, 181}}</string>
 								<key>RubberWindowFrame</key>
-								<string>182 289 788 504 0 0 1152 842 </string>
+								<string>294 234 788 504 0 0 1152 842 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -386,9 +386,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>FFA595AE1253AB0200E7B52F</string>
+				<string>FFDA30C81258A6B300F81B50</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>FFA595AF1253AB0200E7B52F</string>
+				<string>FFDA30C91258A6B300F81B50</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -526,11 +526,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>FFA595B11253AB0200E7B52F</string>
-		<string>/Users/patrickrussell/Documents/FYP/NewApp/NewApp.xcodeproj</string>
+		<string>FFDA30CB1258A6B300F81B50</string>
+		<string>/Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>182 289 788 504 0 0 1152 842 </string>
+	<string>294 234 788 504 0 0 1152 842 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -606,8 +606,8 @@
 			<true/>
 			<key>TableOfContents</key>
 			<array>
-				<string>FFA595B11253AB0200E7B52F</string>
-				<string>FFA595B21253AB0200E7B52F</string>
+				<string>FFDA30CB1258A6B300F81B50</string>
+				<string>FFDA30CC1258A6B300F81B50</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -618,7 +618,7 @@
 			<key>WindowString</key>
 			<string>203 270 500 500 0 0 1152 842 </string>
 			<key>WindowToolGUID</key>
-			<string>FFA595B11253AB0200E7B52F</string>
+			<string>FFDA30CB1258A6B300F81B50</string>
 			<key>WindowToolIsVisible</key>
 			<false/>
 		</dict>
