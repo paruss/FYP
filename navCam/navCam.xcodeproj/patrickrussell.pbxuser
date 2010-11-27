@@ -1,0 +1,98 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* navCam */ = {
+		activeExec = 0;
+		executables = (
+			FF08BD141264A1C20086533B /* navCam */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF08BD141264A1C20086533B /* navCam */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* navCam */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* navCam */,
+		);
+		codeSenseManager = FF08BD1F1264A1DC0086533B /* Code sense */;
+		executables = (
+			FF08BD141264A1C20086533B /* navCam */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308584898;
+			PBXWorkspaceStateSaveDate = 308584898;
+		};
+		sourceControlManager = FF08BD1E1264A1DC0086533B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF08BD141264A1C20086533B /* navCam */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = navCam;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF08BD1E1264A1DC0086533B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF08BD1F1264A1DC0086533B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF08BD211264A24F0086533B /* Launcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 524}}";
+			sepNavSelRange = "{209, 0}";
+			sepNavVisRange = "{0, 219}";
+		};
+	};
+}

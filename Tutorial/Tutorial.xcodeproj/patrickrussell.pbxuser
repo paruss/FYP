@@ -14,9 +14,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					705,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -31,12 +31,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 307799705;
-			PBXWorkspaceStateSaveDate = 307799705;
+			PBXPerProjectTemplateStateSaveDate = 307911932;
+			PBXWorkspaceStateSaveDate = 307911932;
 		};
 		perUserProjectItems = {
-			FFDA30C61258A6B300F81B50 /* PBXBookmark */ = FFDA30C61258A6B300F81B50 /* PBXBookmark */;
-			FFDA30C71258A6B300F81B50 /* PBXTextBookmark */ = FFDA30C71258A6B300F81B50 /* PBXTextBookmark */;
+			FFC917901258D158001B42AA = FFC917901258D158001B42AA /* PBXBookmark */;
+			FFC917B91259385D001B42AA = FFC917B91259385D001B42AA /* PBXTextBookmark */;
+			FFC917BE1259385D001B42AA = FFC917BE1259385D001B42AA /* PBXTextBookmark */;
+			FFDA30C61258A6B300F81B50 = FFDA30C61258A6B300F81B50 /* PBXBookmark */;
 		};
 		sourceControlManager = FFDA30CD1258A6B300F81B50 /* Source Control */;
 		userBuildSettings = {
@@ -44,9 +46,10 @@
 	};
 	08FB7796FE84155DC02AAC07 /* Tutorial.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 234}";
+			sepNavIntBoundsRect = "{{0, 0}, {883, 572}}";
+			sepNavSelRange = "{802, 0}";
+			sepNavVisRange = "{0, 783}";
+			sepNavWindowFrame = "{{1, 4}, {1151, 838}}";
 		};
 	};
 	8DD76F960486AA7600D96B5E /* Tutorial */ = {
@@ -54,6 +57,30 @@
 		executables = (
 			FFDA30C01258A69900F81B50 /* Tutorial */,
 		);
+	};
+	FFC917901258D158001B42AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Tutorial.m */;
+	};
+	FFC917B91259385D001B42AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Tutorial.m */;
+		name = "Tutorial.m: 43";
+		rLen = 0;
+		rLoc = 802;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 0;
+	};
+	FFC917BE1259385D001B42AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Tutorial.m */;
+		name = "Tutorial.m: 35";
+		rLen = 145;
+		rLoc = 640;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
 	};
 	FFDA30C01258A69900F81B50 /* Tutorial */ = {
 		isa = PBXExecutable;
@@ -88,16 +115,6 @@
 	FFDA30C61258A6B300F81B50 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* Tutorial.m */;
-	};
-	FFDA30C71258A6B300F81B50 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 08FB7796FE84155DC02AAC07 /* Tutorial.m */;
-		name = "Tutorial.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 234;
-		vrLoc = 0;
 	};
 	FFDA30CD1258A6B300F81B50 /* Source Control */ = {
 		isa = PBXSourceControlManager;
