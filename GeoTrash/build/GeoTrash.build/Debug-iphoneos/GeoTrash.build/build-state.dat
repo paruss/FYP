@@ -1,0 +1,1271 @@
+TGeoTrash
+v7
+r0
+t317039137.682918
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GeoTrash.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/Info.plist GeoTrash-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrashViewController.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch.gch GeoTrash_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch.gch GeoTrash_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/GeoTrash/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashAppDelegate.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Location.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIAuthenticationDialog.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataCompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataDecompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDownloadCache.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIFormDataRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIHTTPRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIInputStream.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASINetworkQueue.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Reachability.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/MainViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Annotation.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/AnnotationViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/GeoTrash/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashAppDelegate.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Location.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataCompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDownloadCache.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIInputStream.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASINetworkQueue.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Reachability.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/MainViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Annotation.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/AnnotationViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash normal armv6
+cCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app.dSYM /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent
+cCodeSign /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A524A00000000002CE430
+t1280987722
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A517D00000000000004CF
+t1280987517
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C5A4FA40000000000000AB3
+t1280987044
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FDF00000000000001D0
+t1282158559
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKReverseGeocoder.h
+c000000004C6C31EB00000000000006CF
+t1282159083
+s1743
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004C5A53E500000000000000EB
+t1280988133
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004C5A53E600000000000947B0
+t1280988134
+s608176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A556300000000000000C4
+t1280988515
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004C5A511A0000000000001A58
+t1280987418
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C5A512E00000000000B0B30
+t1280987438
+s723760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004C5790370000000000000DE2
+t1280806967
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/arpa/inet.h
+c000000004C5790620000000000001533
+t1280807010
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/ifaddrs.h
+c000000004C5790730000000000000782
+t1280807027
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netdb.h
+c000000004C57909B000000000000307F
+t1280807067
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet/in.h
+c000000004C5A4AAE0000000000005462
+t1280985774
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet6/in6.h
+c000000004C5A4AAE0000000000004F61
+t1280985774
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/stdio.h
+c000000004C57909100000000000040AC
+t1280807057
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/socket.h
+c000000004C5A4AB400000000000059D6
+t1280985780
+s22998
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/zlib.h
+c000000004C5A423C00000000000102A5
+t1280983612
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libz.1.2.3.dylib
+c000000004C5A423D0000000000020FF0
+t1280983613
+s135152
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.h
+c000000004D19C3AF0000000000000453
+t1293534127
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m
+c000000004D19C3AF0000000000003DED
+t1293534127
+s15853
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASICacheDelegate.h
+c000000004D19C3AF00000000000011CE
+t1293534127
+s4558
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.h
+c000000004D19C3AF000000000000072C
+t1293534127
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m
+c000000004D19C3AF0000000000001AAE
+t1293534127
+s6830
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.h
+c000000004D19C3AF00000000000006A3
+t1293534127
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m
+c000000004D19C3AF0000000000001969
+t1293534127
+s6505
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.h
+c000000004D19C3AF0000000000000804
+t1293534127
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m
+c000000004D19C3AF0000000000004161
+t1293534127
+s16737
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.h
+c000000004D19C3AF0000000000000A6D
+t1293534127
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m
+c000000004D19C3AF0000000000002B6A
+t1293534127
+s11114
+i"ASIFormDataRequest.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.h
+c000000004D19C3AF000000000000A9CB
+t1293534127
+s43467
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m
+c000000004D19C3AF000000000002837D
+t1293534127
+s164733
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequestConfig.h
+c000000004D19C3AF00000000000003B0
+t1293534127
+s944
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequestDelegate.h
+c000000004D19C3AF000000000000063E
+t1293534127
+s1598
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.h
+c000000004D19C3AF00000000000003C9
+t1293534127
+s969
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m
+c000000004D19C3AF0000000000000C14
+t1293534127
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.h
+c000000004D19C3AF000000000000120D
+t1293534127
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m
+c000000004D19C3AF0000000000002C8D
+t1293534127
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIProgressDelegate.h
+c000000004D19C3AF0000000000000678
+t1293534127
+s1656
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.h
+c000000004D319CE600000000000001A0
+t1295097062
+s416
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m
+c000000004D31B7B0000000000000025F
+t1295103920
+s607
+i"Annotation.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.h
+c000000004D332A7700000000000000FB
+t1295198839
+s251
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m
+c000000004D332B0400000000000005B7
+t1295198980
+s1463
+i"AnnotationViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.xib
+c000000004D332D4500000000000042E3
+t1295199557
+s17123
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.h
+c000000004D121CEF00000000000001EB
+t1293032687
+s491
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m
+c000000004D121CEF0000000000000A96
+t1293032687
+s2710
+i"GeoTrashAppDelegate.h"
+i"GeoTrashViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.h
+c000000004D332FDE00000000000006A0
+t1295200222
+s1696
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKReverseGeocoder.h>
+i<CoreLocation/CoreLocation.h>
+i"Location.h"
+i"ASIFormDataRequest.h"
+i"MapViewController.h"
+i"MapModel.h"
+i"MapModel.m"
+i"GeoTrashAppDelegate.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m
+c000000004D356A9E00000000000021AE
+t1295346334
+s8622
+i"GeoTrashViewController.h"
+i"MapViewController.h"
+i"Annotation.h"
+i"AnnotationViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.h
+c000000004D23438900000000000002CA
+t1294156681
+s714
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m
+c000000004D1B4C8D00000000000004E1
+t1293634701
+s1249
+i"Location.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.h
+c000000004D28BE1D0000000000000112
+t1294515741
+s274
+i<UIKit/UIKit.h>
+i"GeoTrashViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m
+c000000004D28BA8500000000000005A8
+t1294514821
+s1448
+i"MainViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.xib
+c000000004D29E1E500000000000047BA
+t1294590437
+s18362
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MapModel.h
+c000000004D289C9A000000000000016E
+t1294507162
+s366
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKReverseGeocoder.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MapModel.m
+c000000004D289F4D0000000000000000
+t1294507853
+s0
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MapViewController.h
+c000000004D23495300000000000001B1
+t1294158163
+s433
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKReverseGeocoder.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.h
+c000000004D19C3AF0000000000001D0E
+t1293534127
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m
+c000000004D19C3AF0000000000005E0C
+t1293534127
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrashViewController.xib
+c000000004D2874220000000000007F8F
+t1294496802
+s32655
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrash_Prefix.pch
+c000000004D121CF000000000000000B9
+t1293032688
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/MainWindow.xib
+c000000004D121CEF0000000000004E35
+t1293032687
+s20021
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+t1295346337
+s510
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app.dSYM
+t1295346336
+s102
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/AnnotationViewController.nib
+t1295199595
+s1991
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash
+t1295346336
+s766600
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrashViewController.nib
+t1295188875
+s4542
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/Info.plist
+t1295189032
+s734
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/MainViewController.nib
+t1295188875
+s1757
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/MainWindow.nib
+t1293033371
+s1683
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/PkgInfo
+t1295189032
+s8
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/ResourceRules.plist
+t1293033357
+s485
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision
+t1295188900
+s7182
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent
+t1295189032
+s430
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t1295188880
+s100592
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataCompressor.o
+t1295188880
+s22740
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataDecompressor.o
+t1295188881
+s22644
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDownloadCache.o
+t1295188881
+s58024
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIFormDataRequest.o
+t1295188881
+s45188
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIHTTPRequest.o
+t1295188887
+s446340
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIInputStream.o
+t1295188887
+s27244
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASINetworkQueue.o
+t1295188887
+s56716
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Annotation.o
+t1295188888
+s12996
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/AnnotationViewController.o
+t1295199238
+s35076
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash
+t1295346335
+s386560
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash.LinkFileList
+c000000004D332BFD000000000000087D
+t1295199229
+s2173
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashAppDelegate.o
+t1295200222
+s48848
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashViewController.o
+t1295346335
+s79988
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Location.o
+t1295188879
+s16536
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/MainViewController.o
+t1295200223
+s35508
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Reachability.o
+t1295188888
+s32084
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/main.o
+t1295188877
+s6460
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t1295188891
+s99436
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataCompressor.o
+t1295188891
+s22632
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataDecompressor.o
+t1295188891
+s22580
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDownloadCache.o
+t1295188891
+s56836
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIFormDataRequest.o
+t1295188891
+s44284
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIHTTPRequest.o
+t1295188896
+s437516
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIInputStream.o
+t1295188898
+s26976
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASINetworkQueue.o
+t1295188899
+s56108
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Annotation.o
+t1295188899
+s12932
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/AnnotationViewController.o
+t1295199241
+s35040
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash
+t1295346336
+s373384
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash.LinkFileList
+c000000004D332BFD000000000000087D
+t1295199229
+s2173
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashAppDelegate.o
+t1295200223
+s48768
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashViewController.o
+t1295346335
+s79352
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Location.o
+t1295188890
+s16432
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/MainViewController.o
+t1295200224
+s35472
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Reachability.o
+t1295188899
+s31248
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/main.o
+t1295188890
+s6444
+
+N/Users/patrickrussell/Documents/FYP/GeoTrash/main.m
+c000000004D121CF00000000000000170
+t1293032688
+s368
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision
+c000000004D3301150000000000001C0E
+t1295188245
+s7182
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch.gch
+t1293033391
+s10294832
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch.gch
+t1293033388
+s9831984
+
+NGeoTrash-Info.plist
+c000000004D3303B60000000000000391
+t1295188918
+s913
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317039135#317039135#0(0"0(0#1#0"2501739152#0"0#
+
+CCodeSign /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+s317039136.299137
+e317039137.682796
+r1
+xCodeSign
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+lSLF07#2@42"CodeSign build/Debug-iphoneos/GeoTrash.app317039136#317039137#0(0"0(0#0#78"/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app2501739152#680"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/ResourceRules.plist --entitlements /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIAuthenticationDialog.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881679.375093
+e316881680.750483
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m316881679#316881680#0(0"0(0#0#78"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m2501739152#1856"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIAuthenticationDialog.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataCompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881680.750693
+e316881680.950440
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataCompressor.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m316881680#316881680#0(0"0(0#0#72"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m2501739152#1844"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataCompressor.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataDecompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881680.950597
+e316881681.097940
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataDecompressor.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m316881680#316881681#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m2501739152#1848"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDataDecompressor.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDownloadCache.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881681.098096
+e316881681.402261
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDownloadCache.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m316881681#316881681#0(0"0(0#0#71"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m2501739152#1842"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIDownloadCache.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIFormDataRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881681.402418
+e316881681.657191
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIFormDataRequest.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m316881681#316881681#0(0"0(0#0#73"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m2501739152#1846"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIFormDataRequest.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIHTTPRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881681.657334
+e316881687.455274
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIHTTPRequest.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m316881681#316881687#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m2501739152#1838"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIHTTPRequest.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIInputStream.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881687.455564
+e316881687.649119
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIInputStream.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m316881687#316881687#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m2501739152#1838"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASIInputStream.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASINetworkQueue.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881687.649281
+e316881687.876278
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASINetworkQueue.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m316881687#316881687#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m2501739152#1840"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/ASINetworkQueue.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Annotation.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881688.388838
+e316881688.516713
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Annotation.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m316881688#316881688#0(0"0(0#0#65"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m2501739152#1830"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Annotation.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/AnnotationViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316892038.085297
+e316892039.070677
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/AnnotationViewController.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m316892038#316892039#0(0"0(0#0#79"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m4717520#1858"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/AnnotationViewController.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashAppDelegate.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316893022.637590
+e316893022.954374
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m316893022#316893022#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m2501739152#1848"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashAppDelegate.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317039135.056476
+e317039135.439017
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashViewController.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m317039135#317039135#0(0"0(0#0#77"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m2501739152#1854"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrashViewController.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Location.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881679.193011
+e316881679.374935
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Location.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m316881679#316881679#0(0"0(0#0#63"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m2501739152#1826"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Location.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/MainViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316893023.180241
+e316893023.325244
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/MainViewController.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m316893023#316893023#0(0"0(0#0#73"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m2501739152#1846"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Reachability.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881687.876433
+e316881688.228311
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Reachability.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m316881687#316881688#0(0"0(0#0#67"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m2501739152#1834"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/Reachability.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/GeoTrash/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316881676.117628
+e316881677.993245
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/main.m316881676#316881677#0(0"0(0#0#51"/Users/patrickrussell/Documents/FYP/GeoTrash/main.m2501739152#1810"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/main.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881690.749908
+e316881691.166464
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m316881690#316881691#0(0"0(0#0#78"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m2501739152#1856"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIAuthenticationDialog.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIAuthenticationDialog.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataCompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881691.166772
+e316881691.312240
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataCompressor.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m316881691#316881691#0(0"0(0#0#72"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m2501739152#1844"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataCompressor.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataCompressor.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881691.312393
+e316881691.461370
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataDecompressor.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m316881691#316881691#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m2501739152#1848"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDataDecompressor.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDataDecompressor.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDownloadCache.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881691.461529
+e316881691.761278
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDownloadCache.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m316881691#316881691#0(0"0(0#0#71"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m2501739152#1842"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIDownloadCache.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIDownloadCache.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881691.761436
+e316881691.954143
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIFormDataRequest.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m316881691#316881691#0(0"0(0#0#73"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m2501739152#1846"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIFormDataRequest.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIFormDataRequest.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881691.954302
+e316881698.063682
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIHTTPRequest.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m316881691#316881698#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m2501739152#1838"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIHTTPRequest.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIHTTPRequest.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIInputStream.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881698.063987
+e316881698.332953
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIInputStream.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m316881698#316881698#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m2501739152#1838"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASIInputStream.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASIInputStream.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASINetworkQueue.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881698.333107
+e316881699.013069
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASINetworkQueue.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m316881698#316881699#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m2501739152#1840"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/ASINetworkQueue.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/ASINetworkQueue.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Annotation.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881699.515202
+e316881699.672041
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Annotation.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m316881699#316881699#0(0"0(0#0#65"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m2501739152#1830"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Annotation.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Annotation.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/AnnotationViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316892041.875761
+e316892042.006781
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/AnnotationViewController.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m316892041#316892042#0(0"0(0#0#79"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m2501739152#1858"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/AnnotationViewController.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashAppDelegate.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316893023.553649
+e316893023.705716
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m316893023#316893023#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m2501739152#1848"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashAppDelegate.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashAppDelegate.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317039135.600677
+e317039135.805307
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashViewController.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m317039135#317039135#0(0"0(0#0#77"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m2501739152#1854"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/GeoTrashViewController.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrashViewController.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Location.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881690.635345
+e316881690.749749
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Location.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m316881690#316881690#0(0"0(0#0#63"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m2501739152#1826"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Location.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Location.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/MainViewController.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316893023.906040
+e316893024.021776
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/MainViewController.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m316893023#316893024#0(0"0(0#0#73"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m2501739152#1846"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Reachability.o /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881699.013215
+e316881699.351687
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Reachability.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m316881699#316881699#0(0"0(0#0#67"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m2501739152#1834"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/Reachability.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/Reachability.o0#
+
+CCompileC build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/GeoTrash/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316881689.422395
+e316881690.236902
+r1
+xCompileC
+xbuild/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Documents/FYP/GeoTrash/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/GeoTrash/main.m316881689#316881690#0(0"0(0#0#51"/Users/patrickrussell/Documents/FYP/GeoTrash/main.m2501739152#1810"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch -c /Users/patrickrussell/Documents/FYP/GeoTrash/main.m -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.xib
+s316892392.036267
+e316892395.396429
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@47"CompileXIB Classes/AnnotationViewController.xib316892392#316892395#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#81"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.xib2501739152#597"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/AnnotationViewController.nib /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/AnnotationViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.xib
+s316881665.310337
+e316881675.820480
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.xib
+lSLF07#2@41"CompileXIB Classes/MainViewController.xib316881665#316881675#0(0"0(0#0#75"/Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.xib2501739152#585"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/MainViewController.nib /Users/patrickrussell/Documents/FYP/GeoTrash/Classes/MainViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrashViewController.xib
+s316881665.296965
+e316881676.117162
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrashViewController.xib
+lSLF07#2@37"CompileXIB GeoTrashViewController.xib316881665#316881676#0(0"0(0#0#71"/Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrashViewController.xib4717520#585"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrashViewController.nib /Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrashViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/GeoTrash/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphoneos/GeoTrash.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash normal "armv6 armv7"
+s317039136.054802
+e317039136.074717
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash
+xnormal
+xarmv6 armv7
+lSLF07#2@85"CreateUniversalBinary build/Debug-iphoneos/GeoTrash.app/GeoTrash normal "armv6 armv7"317039136#317039136#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/GeoTrash/armv6 armv72501739152#550"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash -output /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app.dSYM /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash
+s317039136.074853
+e317039136.294445
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app.dSYM
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/GeoTrash.app.dSYM build/Debug-iphoneos/GeoTrash.app/GeoTrash317039136#317039136#0(0"0(0#0#87"/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash2501739152#383"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/GeoTrash -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash normal armv6
+s317039135.439152
+e317039135.600264
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash
+xnormal
+xarmv6
+lSLF07#2@130"Link /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash317039135#317039135#0(0"0(0#0#0"2501739152#1029"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv6/GeoTrash0#
+
+CLd /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash normal armv7
+s317039135.805452
+e317039136.054618
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash
+xnormal
+xarmv7
+lSLF07#2@130"Link /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash317039135#317039136#0(0"0(0#0#0"2501739152#1029"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/Objects-normal/armv7/GeoTrash0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/Info.plist GeoTrash-Info.plist
+s316881832.132674
+e316881832.158790
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/Info.plist
+xGeoTrash-Info.plist
+lSLF07#2@27"Process GeoTrash-Info.plist316881832#316881832#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/GeoTrash/GeoTrash-Info.plist2501739152#590"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GeoTrash-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/ResourceRules.plist -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-ddjvfuifeowttcgxjbjltvfzscbq/GeoTrash_Prefix.pch.gch GeoTrash_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoTrash_Prefix-hejrnxwvdbftytbjeewagiycoplf/GeoTrash_Prefix.pch.gch GeoTrash_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision
+s316881700.774056
+e316881700.850187
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision316881700#316881700#0(0"0(0#0#103"/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision2501739152#445"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent
+s316881832.202612
+e316881832.238011
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent316881832#316881832#0(0"0(0#0#110"/Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent2501739152#447"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/GeoTrash/build/GeoTrash.build/Debug-iphoneos/GeoTrash.build/GeoTrash.xcent0#
+
+CTouch /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+s317039136.294756
+e317039136.298840
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app
+lSLF07#2@84"Touch /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app317039136#317039136#0(0"0(0#0#0"2501739152#277"    cd /Users/patrickrussell/Documents/FYP/GeoTrash    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/GeoTrash/build/Debug-iphoneos/GeoTrash.app0#
+

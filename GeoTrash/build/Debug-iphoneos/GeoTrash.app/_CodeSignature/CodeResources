@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AnnotationViewController.nib</key>
+		<data>
+		b4iNpg5XQuD47S2J2ued0/zpJoY=
+		</data>
+		<key>GeoTrashViewController.nib</key>
+		<data>
+		+Fto7cvsQ5hcMrlFfxqvuZPpLOQ=
+		</data>
+		<key>MainViewController.nib</key>
+		<data>
+		fkNKeqqGVnhx4XfOLjeF2F5zuTE=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		awuSDMqY7tZZHBLfAR3+SKihNRA=
+		</data>
+		<key>MapView.nib</key>
+		<data>
+		WBa7s6f8aV9fOlsr3oEOpPGsgPU=
+		</data>
+		<key>MapViewController.nib</key>
+		<data>
+		TTaFT/Oc+0XRp/NuIqE6fathUJQ=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		1tE5NfkOmMF9W2Qt7rH1HJI9a3g=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
