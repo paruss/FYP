@@ -16,6 +16,7 @@
 #import "MapModel.h"
 #import "MapModel.m"
 #import "GeoTrashAppDelegate.h"
+#import "Cacher.h"
 
 @class AnnotationViewController;
 
@@ -28,7 +29,10 @@
 	NSString *lon;
 	Location *CLController;
 	NSMutableArray *mapAnnotations;
+	NSString *databaseName;
+	NSString *databasePath;
 	AnnotationViewController *annotationViewController;
+	Cacher *cacher;
 
 
 }
@@ -42,6 +46,7 @@
 @property (nonatomic, retain) Location *CLController;
 @property (nonatomic, retain) IBOutlet MKMapView *mapView;
 @property (nonatomic, retain) IBOutlet AnnotationViewController *annotationViewController;
+@property (nonatomic, retain) Cacher *cacher;
 
 
 
@@ -50,6 +55,7 @@
 - (IBAction)sentGPS:(id)sender;
 - (IBAction)Update:(id)sender;
 - (IBAction)populateLocationList:(id)sender;
+- (IBAction)loadFromDB:(id)sender;
 - (IBAction) remMap:(id) sender;
 
 

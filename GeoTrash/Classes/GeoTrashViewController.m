@@ -19,7 +19,7 @@ enum
 @implementation GeoTrashViewController
 
 
-@synthesize theImageView ,sentPhoto, takePhoto, lat, lon, CLController, mapAnnotations, mapView, annotationViewController;
+@synthesize theImageView ,sentPhoto, takePhoto, lat, lon, CLController, mapAnnotations, mapView, annotationViewController, cacher;
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
@@ -41,6 +41,7 @@ enum
 	CLController = [[Location alloc] init];
 	CLController.delegate = self;
 	[CLController.locMgr startUpdatingLocation];
+	
 	
 	//Annotation *annotation = [[Annotation alloc] init];
    // [self.mapAnnotations insertObject:annotation atIndex:kAnnotationIndex];
@@ -106,6 +107,53 @@ enum
 	self.navigationItem.backBarButtonItem = temporaryBarButtonItem;
 	[temporaryBarButtonItem release];
     
+	cacher = [[Cacher alloc]init];
+	id number;
+	number = self.cacher;
+	
+	//[cacher checkAndCreateDatabase];
+	[number buildDatabaseFromRemoteData];
+	
+	
+	/*
+	databaseName = @"LocCache.sql";
+	NSFileManager *fileManager = [NSFileManager defaultManager];
+	
+	
+	NSString *databasePathFromApp = [[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:databaseName];
+	
+	[fileManager copyItemAtPath:databasePathFromApp toPath:databasePath error:nil];
+	[fileManager release];
+	
+	sqlite3 *database;
+	
+	// Init the animals Array
+	
+	// Open the database from the users filessytem
+
+	if(sqlite3_open([databasePath UTF8String], &database) == SQLITE_OK) {
+		// Setup the SQL Statement and compile it for faster access
+		const char *sqlStatement = "select * from LocCache";
+		sqlite3_stmt *compiledStatement;
+		if(sqlite3_prepare_v2(database, sqlStatement, -1, &compiledStatement, NULL) == SQLITE_OK) {
+			// Loop through the results and add them to the feeds array
+			while(sqlite3_step(compiledStatement) == SQLITE_ROW) {
+				// Read the data from the result row
+				NSString *ID = [NSString stringWithUTF8String:(char *)sqlite3_column_text(compiledStatement, 1)];
+				NSString *TS = [NSString stringWithUTF8String:(char *)sqlite3_column_text(compiledStatement, 2)];
+				NSString *Lat = [NSString stringWithUTF8String:(char *)sqlite3_column_text(compiledStatement, 3)];
+				NSLog(ID);
+		
+			}
+		}
+		// Release the compiled statement from memory
+		sqlite3_finalize(compiledStatement);
+		
+	}
+	sqlite3_close(database);
+	
+    */
+	
     // create out annotations array (in this example only 2)
     self.mapAnnotations = [[NSMutableArray alloc] initWithCapacity:1];
     
@@ -218,12 +266,39 @@ enum
 
 - (void)imagePickerController:(UIImagePickerController *)picker didFinishPickingMediaWithInfo:(NSDictionary *)info {
 	[picker dismissModalViewControllerAnimated:YES];
+
+
 	self.theImageView.image = [info objectForKey:@"UIImagePickerControllerOriginalImage"];
 	
 }
 
 
 - (IBAction)populateLocationList:(id)sender
+{
+	cacher = [[Cacher alloc]init];
+	id number;
+	
+	number = self.cacher;
+	
+	// Get the path to the documents directory and append the databaseName
+		//[cacher checkAndCreateDatabase];
+	[number starter];
+	//[number locationsArray];
+	
+	
+	
+}
+
+- (IBAction)loadFromDB:(id)sender
+{
+	cacher = [[Cacher alloc]init];
+	id number;
+	number = self.cacher;
+    [number starter];
+}
+
+
+/*
 {
 
 	NSURL *url = [NSURL URLWithString:@"http://www.skynet.ie/~paruss/iPhone/getLocations.php"];
@@ -247,7 +322,7 @@ enum
 	NSLog(@"Fail %@", error);
 }
 
-
+*/
 
 /*
 // Override to allow orientations other than the default portrait orientation.
@@ -272,6 +347,7 @@ enum
 
 - (void)dealloc {
     [super dealloc];
+	
 }
 
 @end
