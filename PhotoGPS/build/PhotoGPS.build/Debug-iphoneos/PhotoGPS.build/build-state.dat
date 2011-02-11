@@ -3,28 +3,6 @@ v7
 r0
 t315672681.458270
 cCheck dependencies
-cCpResource build/Debug-iphoneos/PhotoGPS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
-cProcessInfoPlistFile /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/Info.plist PhotoGPS-Info.plist
-cCompileXIB /Users/patrickrussell/FYP/PhotoGPS/MainWindow.xib
-cCompileXIB /Users/patrickrussell/FYP/PhotoGPS/PhotoGPSViewController.xib
-cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-flmacozxsbtuabbqcsjolosyfmez/PhotoGPS_Prefix.pch.gch PhotoGPS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-gffhtpeqaybcoogvscswwtrjmwhy/PhotoGPS_Prefix.pch.gch PhotoGPS_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/main.o /Users/patrickrussell/FYP/PhotoGPS/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPSAppDelegate.o /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPSViewController.o /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/CoreLocationController.o /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPS normal armv6
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/main.o /Users/patrickrussell/FYP/PhotoGPS/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPSAppDelegate.o /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPSViewController.o /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/CoreLocationController.o /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPS normal armv7
-cCreateUniversalBinary /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/PhotoGPS normal "armv6 armv7"
-cGenerateDSYMFile /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app.dSYM /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/PhotoGPS
-cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/embedded.mobileprovision
-cTouch /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app
-cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/PhotoGPS.xcent
-cCodeSign /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
 c000000004C6DE9E30000000000000110
@@ -425,34 +403,34 @@ t2
 s0
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.h
-c000000004CB5B4060000000000000337
-t1286976518
+c000000004D287E730000000000000337
+t1294499443
 s823
 i<Foundation/Foundation.h>
 i<CoreLocation/CoreLocation.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m
-c000000004CB582AC0000000000000529
-t1286963884
+c000000004D287E730000000000000529
+t1294499443
 s1321
 i"CoreLocationController.h"
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.h
-c000000004CBFA47B00000000000001E9
-t1287627899
+c000000004D287E7300000000000001E9
+t1294499443
 s489
 i<UIKit/UIKit.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m
-c000000004CBFA47B0000000000000A94
-t1287627899
+c000000004D287E730000000000000A94
+t1294499443
 s2708
 i"PhotoGPSAppDelegate.h"
 i"PhotoGPSViewController.h"
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.h
-c000000004D1C85810000000000000454
-t1293714817
+c000000004D287E730000000000000454
+t1294499443
 s1108
 i<UIKit/UIKit.h>
 i"CoreLocationController.h"
@@ -460,58 +438,58 @@ i<netinet/in.h>
 i<Foundation/NSNetServices.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m
-c000000004D1C859D00000000000013F4
-t1293714845
+c000000004D287E7300000000000013F4
+t1294499443
 s5108
 i"PhotoGPSViewController.h"
 
 N/Users/patrickrussell/FYP/PhotoGPS/MainWindow.xib
-c000000004CBFA47B0000000000004E35
-t1287627899
+c000000004D287E730000000000004E35
+t1294499443
 s20021
 
 N/Users/patrickrussell/FYP/PhotoGPS/PhotoGPSViewController.xib
-c000000004CBFEF4D0000000000006A39
-t1287647053
+c000000004D287E730000000000006A39
+t1294499443
 s27193
 
 N/Users/patrickrussell/FYP/PhotoGPS/PhotoGPS_Prefix.pch
-c000000004CBFA47B00000000000000B9
-t1287627899
+c000000004D287E7300000000000000B9
+t1294499443
 s185
 i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app
-t1293979111
+t1294499443
 s374
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app.dSYM
-t1293979107
+t1294499443
 s102
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/Info.plist
-t1287628325
+t1294499443
 s730
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/MainWindow.nib
-t1287628326
+t1294499443
 s1683
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/PhotoGPS
-t1293979106
+t1294499443
 s83232
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/PhotoGPSViewController.nib
-t1292780353
+t1294499443
 s4113
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/PkgInfo
-t1287628325
+t1294499443
 s8
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/ResourceRules.plist
-t1287628326
+t1294499443
 s485
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app/embedded.mobileprovision
@@ -551,28 +529,28 @@ t2
 s0
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/CoreLocationController.o
-t1292780371
+t1294499443
 s17044
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPS
-t1293979104
+t1294499443
 s32172
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPS.LinkFileList
-c000000004D0E432000000000000001FB
-t1292780320
+c000000004D287E7300000000000001FB
+t1294499443
 s507
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPSAppDelegate.o
-t1293714825
+t1294499443
 s47968
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/PhotoGPSViewController.o
-t1293714845
+t1294499443
 s60704
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv6/main.o
-t1292780370
+t1294499443
 s6440
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/ASIAuthenticationDialog.o
@@ -608,28 +586,28 @@ t2
 s0
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/CoreLocationController.o
-t1292780375
+t1294499443
 s16944
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPS
-t1293979106
+t1294499443
 s32172
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPS.LinkFileList
-c000000004D0E432000000000000001FB
-t1292780320
+c000000004D287E7300000000000001FB
+t1294499443
 s507
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPSAppDelegate.o
-t1293714827
+t1294499443
 s47888
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/PhotoGPSViewController.o
-t1293714850
+t1294499443
 s60252
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/Objects-normal/armv7/main.o
-t1292780374
+t1294499443
 s6424
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphoneos/PhotoGPS.build/PhotoGPS.xcent
@@ -637,8 +615,8 @@ t1287628327
 s422
 
 N/Users/patrickrussell/FYP/PhotoGPS/main.m
-c000000004CBFA47B000000000000016E
-t1287627899
+c000000004D287E73000000000000016E
+t1294499443
 s366
 i<UIKit/UIKit.h>
 
@@ -664,13 +642,13 @@ t1287628327
 s10294832
 
 NPhotoGPS-Info.plist
-c000000004CBFA47B000000000000038D
-t1287627899
+c000000004D287E73000000000000038D
+t1294499443
 s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies315672681#315672681#0(0"0(0#1#0"2462876304#0"0#
+lSLF07#2@18"Check dependencies316275665#316275665#0(137"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.PhotoGPS' could not be found1(4@129"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.PhotoGPS' could not be found316275665#4294967295#0#0(1@0"0(0#1#0"2501739152#0"0#
 
 CCodeSign /Users/macminiserver/Desktop/PhotoGPS/build/Debug-iphoneos/PhotoGPS.app
 s309339333.989344

@@ -1,7 +1,7 @@
 TPhotoGPS
 v7
 r0
-t315671823.750466
+t316301255.969388
 cCheck dependencies
 cProcessInfoPlistFile /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/Info.plist PhotoGPS-Info.plist
 cCompileXIB /Users/patrickrussell/FYP/PhotoGPS/MainWindow.xib
@@ -126,34 +126,34 @@ t2
 s0
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.h
-c000000004CB5B4060000000000000337
-t1286976518
+c000000004D287E730000000000000337
+t1294499443
 s823
 i<Foundation/Foundation.h>
 i<CoreLocation/CoreLocation.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m
-c000000004CB582AC0000000000000529
-t1286963884
+c000000004D287E730000000000000529
+t1294499443
 s1321
 i"CoreLocationController.h"
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.h
-c000000004CBFA47B00000000000001E9
-t1287627899
+c000000004D287E7300000000000001E9
+t1294499443
 s489
 i<UIKit/UIKit.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m
-c000000004CBFA47B0000000000000A94
-t1287627899
+c000000004D287E730000000000000A94
+t1294499443
 s2708
 i"PhotoGPSAppDelegate.h"
 i"PhotoGPSViewController.h"
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.h
-c000000004D1C85810000000000000454
-t1293714817
+c000000004D287E730000000000000454
+t1294499443
 s1108
 i<UIKit/UIKit.h>
 i"CoreLocationController.h"
@@ -161,54 +161,54 @@ i<netinet/in.h>
 i<Foundation/NSNetServices.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m
-c000000004D1C859D00000000000013F4
-t1293714845
+c000000004D287E7300000000000013F4
+t1294499443
 s5108
 i"PhotoGPSViewController.h"
 
 N/Users/patrickrussell/FYP/PhotoGPS/MainWindow.xib
-c000000004CBFA47B0000000000004E35
-t1287627899
+c000000004D287E730000000000004E35
+t1294499443
 s20021
 
 N/Users/patrickrussell/FYP/PhotoGPS/PhotoGPSViewController.xib
-c000000004CBFEF4D0000000000006A39
-t1287647053
+c000000004D287E730000000000006A39
+t1294499443
 s27193
 
 N/Users/patrickrussell/FYP/PhotoGPS/PhotoGPS_Prefix.pch
-c000000004CBFA47B00000000000000B9
-t1287627899
+c000000004D287E7300000000000000B9
+t1294499443
 s185
 i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app
-t1293979023
+t1294582873
 s238
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM
-t1293979023
+t1294582873
 s102
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/Info.plist
-t1289748868
+t1294499443
 s595
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/MainWindow.nib
-t1289748871
+t1294499443
 s1683
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS
-t1293979023
+t1294582873
 s32216
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPSViewController.nib
-t1289748872
+t1294499443
 s4113
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PkgInfo
-t1289748868
+t1294499443
 s8
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/ASIAuthenticationDialog.o
@@ -244,29 +244,29 @@ t2
 s0
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o
-t1293978972
+t1294582873
 s17324
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPS.LinkFileList
-c000000004D208D8E0000000000000213
-t1293979022
+c000000004D287E730000000000000213
+t1294499443
 s531
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o
-t1293978970
+t1294582872
 s48384
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o
-t1293978972
+t1294582873
 s62476
 
 N/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/main.o
-t1293978970
+t1294582872
 s6296
 
 N/Users/patrickrussell/FYP/PhotoGPS/main.m
-c000000004CBFA47B000000000000016E
-t1287627899
+c000000004D287E73000000000000016E
+t1294499443
 s366
 i<UIKit/UIKit.h>
 
@@ -384,7 +384,7 @@ s366
 i<UIKit/UIKit.h>
 
 N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch.gch
-t1293978969
+t1294582872
 s10204720
 
 N/var/folders/yp/yphhv98EEL0yhSL-nB2Go++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-fjymmhrofizpitanlenxwfrrlbca/PhotoGPS_Prefix.pch.gch
@@ -392,13 +392,13 @@ t1289748874
 s15211536
 
 NPhotoGPS-Info.plist
-c000000004CBFA47B000000000000038D
-t1287627899
+c000000004D287E73000000000000038D
+t1294499443
 s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies315671822#315671822#0(0"0(0#1#0"2462876304#0"0#
+lSLF07#2@18"Check dependencies316301255#316301256#0(0"0(0#1#0"4231240#0"0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/ASIAuthenticationDialog.o "/Users/patrickrussell/FYP/PhotoGPS/../../Downloads/pokeb-asi-http-request-d917f38 3/Classes/ASIAuthenticationDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s315671772.732372
@@ -529,8 +529,8 @@ oi686-apple-darwin10-gcc-4.2.1: no input files
 lSLF07#2@117"Compile /Users/patrickrussell/FYP/PhotoGPS/../../Downloads/pokeb-asi-http-request-d917f38 3/Classes/ASINetworkQueue.m315671772#315671772#0(411"i686-apple-darwin10-gcc-4.2.1: /Users/patrickrussell/FYP/PhotoGPS/../../Downloads/pokeb-asi-http-request-d917f38 3/Classes/ASINetworkQueue.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1315671772#4294967295#0#0(1@0"0(0#0#109"/Users/patrickrussell/FYP/PhotoGPS/../../Downloads/pokeb-asi-http-request-d917f38 3/Classes/ASINetworkQueue.m2462876304#1971"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c "/Users/patrickrussell/FYP/PhotoGPS/../../Downloads/pokeb-asi-http-request-d917f38 3/Classes/ASINetworkQueue.m" -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/ASINetworkQueue.o1#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315671772.637517
-e315671772.732009
+s316275673.077311
+e316275673.185200
 r1
 xCompileC
 xbuild/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o
@@ -539,7 +539,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@75"Compile /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m315671772#315671772#0(0"0(0#0#67"/Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m2462876304#1934"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o0#
+lSLF07#2@75"Compile /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m316275673#316275673#0(0"0(0#0#67"/Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m2501739152#1934"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/Classes/CoreLocationController.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o /Users/patrickrussell100/Downloads/PhotoGPS/Classes/CoreLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s311441675.260931
@@ -555,8 +555,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@84"Compile /Users/patrickrussell100/Downloads/PhotoGPS/Classes/CoreLocationController.m311441675#311441675#0(0"0(0#0#76"/Users/patrickrussell100/Downloads/PhotoGPS/Classes/CoreLocationController.m8613134304#2095"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/yp/yphhv98EEL0yhSL-nB2Go++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-fjymmhrofizpitanlenxwfrrlbca/PhotoGPS_Prefix.pch -c /Users/patrickrussell100/Downloads/PhotoGPS/Classes/CoreLocationController.m -o /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/CoreLocationController.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315671770.540233
-e315671770.959005
+s316275672.699152
+e316275672.889926
 r1
 xCompileC
 xbuild/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o
@@ -565,7 +565,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m315671770#315671770#0(0"0(0#0#64"/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m2462876304#1928"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o0#
+lSLF07#2@72"Compile /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m316275672#316275672#0(0"0(0#0#64"/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m2501739152#1928"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSAppDelegate.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o /Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s311441674.960466
@@ -581,8 +581,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@81"Compile /Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSAppDelegate.m311441674#311441675#0(0"0(0#0#73"/Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSAppDelegate.m8605211808#2089"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/yp/yphhv98EEL0yhSL-nB2Go++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-fjymmhrofizpitanlenxwfrrlbca/PhotoGPS_Prefix.pch -c /Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSAppDelegate.m -o /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSAppDelegate.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315671770.959198
-e315671772.637250
+s316275672.890080
+e316275673.077150
 r1
 xCompileC
 xbuild/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o
@@ -591,7 +591,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@75"Compile /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m315671770#315671772#0(0"0(0#0#67"/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m2462876304#1934"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o0#
+lSLF07#2@75"Compile /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m316275672#316275673#0(0"0(0#0#67"/Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m2501739152#1934"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o /Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s311441675.112454
@@ -607,8 +607,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@84"Compile /Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSViewController.m311441675#311441675#0(0"0(0#0#76"/Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSViewController.m8608783552#2095"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/yp/yphhv98EEL0yhSL-nB2Go++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-fjymmhrofizpitanlenxwfrrlbca/PhotoGPS_Prefix.pch -c /Users/patrickrussell100/Downloads/PhotoGPS/Classes/PhotoGPSViewController.m -o /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPSViewController.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/main.o /Users/patrickrussell/FYP/PhotoGPS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315671769.725381
-e315671770.540075
+s316275672.626068
+e316275672.698996
 r1
 xCompileC
 xbuild/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/main.o
@@ -617,7 +617,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@49"Compile /Users/patrickrussell/FYP/PhotoGPS/main.m315671769#315671770#0(0"0(0#0#41"/Users/patrickrussell/FYP/PhotoGPS/main.m2462876304#1890"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/main.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/main.o0#
+lSLF07#2@49"Compile /Users/patrickrussell/FYP/PhotoGPS/main.m316275672#316275672#0(0"0(0#0#41"/Users/patrickrussell/FYP/PhotoGPS/main.m2501739152#1890"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch -c /Users/patrickrussell/FYP/PhotoGPS/main.m -o /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/main.o0#
 
 CCompileC build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/main.o /Users/patrickrussell100/Downloads/PhotoGPS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s311441674.958417
@@ -655,13 +655,13 @@ x/Users/patrickrussell100/Downloads/PhotoGPS/PhotoGPSViewController.xib
 lSLF07#2@37"CompileXIB PhotoGPSViewController.xib311441668#311441672#0(0"0(0#0#70"/Users/patrickrussell100/Downloads/PhotoGPS/PhotoGPSViewController.xib8610433792#672"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPSViewController.nib /Users/patrickrussell100/Downloads/PhotoGPS/PhotoGPSViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CGenerateDSYMFile /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS
-s315671823.433088
-e315671823.711925
+s316275673.540255
+e316275673.705978
 r1
 xGenerateDSYMFile
 x/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM
 x/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS
-lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/PhotoGPS.app.dSYM build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS315671823#315671823#0(0"0(0#0#84"/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS2462876304#374"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS -o /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM0#
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/PhotoGPS.app.dSYM build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS316275673#316275673#0(0"0(0#0#84"/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS2501739152#374"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS -o /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM0#
 
 CGenerateDSYMFile /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS
 s311441675.914267
@@ -673,14 +673,14 @@ x/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGP
 lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/PhotoGPS.app.dSYM build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS311441675#311441675#0(0"0(0#0#93"/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS8610488416#463"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS -o /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app.dSYM0#
 
 CLd /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS normal i386
-s315671822.467693
-e315671823.432923
+s316275673.185341
+e316275673.540076
 r1
 xLd
 x/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS
 xnormal
 xi386
-lSLF07#2@89"Link /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS315671822#315671823#0(0"0(0#0#0"2462876304#1001"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -filelist /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPS.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS0#
+lSLF07#2@89"Link /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS316275673#316275673#0(0"0(0#0#0"2501739152#1001"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -filelist /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/Objects-normal/i386/PhotoGPS.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS0#
 
 CLd /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PhotoGPS normal i386
 s311441675.386193
@@ -705,8 +705,8 @@ xPhotoGPS-Info.plist
 lSLF07#2@27"Process PhotoGPS-Info.plist311441668#311441668#0(0"0(0#0#63"/Users/patrickrussell100/Downloads/PhotoGPS/PhotoGPS-Info.plist8610022560#559"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility PhotoGPS-Info.plist -genpkginfo /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app/Info.plist0#
 
 CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch.gch PhotoGPS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s315671759.640201
-e315671769.725113
+s316275669.469514
+e316275672.625840
 r1
 xProcessPCH
 x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch.gch
@@ -715,7 +715,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile PhotoGPS_Prefix.pch315671759#315671769#0(0"0(0#0#54"/Users/patrickrussell/FYP/PhotoGPS/PhotoGPS_Prefix.pch2462876304#1785"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -c /Users/patrickrussell/FYP/PhotoGPS/PhotoGPS_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch.gch0#
+lSLF07#2@30"Precompile PhotoGPS_Prefix.pch316275669#316275672#0(0"0(0#0#54"/Users/patrickrussell/FYP/PhotoGPS/PhotoGPS_Prefix.pch2501739152#1785"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell/FYP/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -c /Users/patrickrussell/FYP/PhotoGPS/PhotoGPS_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-agoksvkxardpykcpwwigoodfomtc/PhotoGPS_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/yp/yphhv98EEL0yhSL-nB2Go++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-fjymmhrofizpitanlenxwfrrlbca/PhotoGPS_Prefix.pch.gch PhotoGPS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s311441672.270477
@@ -731,12 +731,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@30"Precompile PhotoGPS_Prefix.pch311441672#311441674#0(0"0(0#0#63"/Users/patrickrussell100/Downloads/PhotoGPS/PhotoGPS_Prefix.pch8608778144#1937"    cd /Users/patrickrussell100/Downloads/PhotoGPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-generated-files.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-own-target-headers.hmap -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-all-target-headers.hmap -iquote /Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/PhotoGPS-project-headers.hmap -F/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator -I/Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/include -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources/i386 -I/Users/patrickrussell100/Downloads/PhotoGPS/build/PhotoGPS.build/Debug-iphonesimulator/PhotoGPS.build/DerivedSources -c /Users/patrickrussell100/Downloads/PhotoGPS/PhotoGPS_Prefix.pch -o /var/folders/yp/yphhv98EEL0yhSL-nB2Go++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGPS_Prefix-fjymmhrofizpitanlenxwfrrlbca/PhotoGPS_Prefix.pch.gch0#
 
 CTouch /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app
-s315671823.712061
-e315671823.750388
+s316275673.706107
+e316275673.727046
 r1
 xTouch
 x/Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app
-lSLF07#2@81"Touch /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app315671823#315671823#0(0"0(0#0#0"2462876304#271"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app0#
+lSLF07#2@81"Touch /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app316275673#316275673#0(0"0(0#0#0"2501739152#271"    cd /Users/patrickrussell/FYP/PhotoGPS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/FYP/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app0#
 
 CTouch /Users/patrickrussell100/Downloads/PhotoGPS/build/Debug-iphonesimulator/PhotoGPS.app
 s311441675.974291
