@@ -14,12 +14,18 @@
 		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* GeoTrashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */; };
+		F33DFC0E130807C900A33A2F /* Cache.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = F33DFC0D130807C900A33A2F /* Cache.sqlite */; };
+		F33DFC92130813AF00A33A2F /* AnimalDatabase.sql in Resources */ = {isa = PBXBuildFile; fileRef = F33DFC91130813AF00A33A2F /* AnimalDatabase.sql */; };
+		F33DFCB01308169000A33A2F /* Cache.sql in Resources */ = {isa = PBXBuildFile; fileRef = F33DFCAF1308169000A33A2F /* Cache.sql */; };
 		FF06583112E361F80061367E /* AnnotationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF06582F12E361F80061367E /* AnnotationViewController.m */; };
 		FF06583212E361F80061367E /* AnnotationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF06583012E361F80061367E /* AnnotationViewController.xib */; };
 		FF21637C12E1CD6700305C74 /* Annotation.m in Sources */ = {isa = PBXBuildFile; fileRef = FF21637B12E1CD6700305C74 /* Annotation.m */; };
+		FF62F34412FF3FDB0022FEAF /* TrashPiece.m in Sources */ = {isa = PBXBuildFile; fileRef = FF62F34312FF3FDB0022FEAF /* TrashPiece.m */; };
 		FF6FD0D912C3A8AE00B69FA8 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FD0D812C3A8AE00B69FA8 /* MapKit.framework */; };
 		FF6FD0FD12C3A8E500B69FA8 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FD0FC12C3A8E500B69FA8 /* CoreLocation.framework */; };
-		FFA1D08E12E6191D007F7B8B /* LocCache.sql in Resources */ = {isa = PBXBuildFile; fileRef = FFA1D08D12E6191D007F7B8B /* LocCache.sql */; };
+		FFA1D0B912E627BA007F7B8B /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA1D0B812E627BA007F7B8B /* libsqlite3.0.dylib */; };
+		FFA1D0BE12E62B98007F7B8B /* Cacher.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA1D0BD12E62B98007F7B8B /* Cacher.m */; };
+		FFA6EAC913045EAE007BD0C3 /* LocCache.sql in Resources */ = {isa = PBXBuildFile; fileRef = FFA6EAC813045EAE007BD0C3 /* LocCache.sql */; };
 		FFA7E71412CB620700BFBC7B /* GeoTrashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA7E71312CB620700BFBC7B /* GeoTrashViewController.xib */; };
 		FFA7E75512CB824F00BFBC7B /* Location.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E75412CB824F00BFBC7B /* Location.m */; };
 		FFA7E96712CCFF3500BFBC7B /* ASIAuthenticationDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95412CCFF3500BFBC7B /* ASIAuthenticationDialog.m */; };
@@ -52,14 +58,22 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* GeoTrash_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoTrash_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* GeoTrash-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GeoTrash-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		F33DFC0D130807C900A33A2F /* Cache.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cache.sqlite; sourceTree = "<group>"; };
+		F33DFC91130813AF00A33A2F /* AnimalDatabase.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = AnimalDatabase.sql; sourceTree = "<group>"; };
+		F33DFCAF1308169000A33A2F /* Cache.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cache.sql; sourceTree = "<group>"; };
 		FF06582E12E361F70061367E /* AnnotationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnotationViewController.h; sourceTree = "<group>"; };
 		FF06582F12E361F80061367E /* AnnotationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnotationViewController.m; sourceTree = "<group>"; };
 		FF06583012E361F80061367E /* AnnotationViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AnnotationViewController.xib; path = Classes/AnnotationViewController.xib; sourceTree = "<group>"; };
 		FF21637A12E1CD6700305C74 /* Annotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Annotation.h; sourceTree = "<group>"; };
 		FF21637B12E1CD6700305C74 /* Annotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Annotation.m; sourceTree = "<group>"; };
+		FF62F34212FF3FDB0022FEAF /* TrashPiece.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrashPiece.h; sourceTree = "<group>"; };
+		FF62F34312FF3FDB0022FEAF /* TrashPiece.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TrashPiece.m; sourceTree = "<group>"; };
 		FF6FD0D812C3A8AE00B69FA8 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		FF6FD0FC12C3A8E500B69FA8 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
-		FFA1D08D12E6191D007F7B8B /* LocCache.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = LocCache.sql; sourceTree = "<group>"; };
+		FFA1D0B812E627BA007F7B8B /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		FFA1D0BC12E62B98007F7B8B /* Cacher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cacher.h; sourceTree = "<group>"; };
+		FFA1D0BD12E62B98007F7B8B /* Cacher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cacher.m; sourceTree = "<group>"; };
+		FFA6EAC813045EAE007BD0C3 /* LocCache.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = LocCache.sql; sourceTree = "<group>"; };
 		FFA7E71312CB620700BFBC7B /* GeoTrashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GeoTrashViewController.xib; sourceTree = "<group>"; };
 		FFA7E75312CB824F00BFBC7B /* Location.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Location.h; sourceTree = "<group>"; };
 		FFA7E75412CB824F00BFBC7B /* Location.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Location.m; sourceTree = "<group>"; };
@@ -108,6 +122,7 @@
 				FFA7E9A212CDF1F500BFBC7B /* SystemConfiguration.framework in Frameworks */,
 				FFA7E9A412CDF20200BFBC7B /* MobileCoreServices.framework in Frameworks */,
 				FFA7E9A612CDF21C00BFBC7B /* libz.1.2.3.dylib in Frameworks */,
+				FFA1D0B912E627BA007F7B8B /* libsqlite3.0.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,6 +132,12 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				FF62F34212FF3FDB0022FEAF /* TrashPiece.h */,
+				FF62F34312FF3FDB0022FEAF /* TrashPiece.m */,
+				FFA1D0BD12E62B98007F7B8B /* Cacher.m */,
+				FFA1D0BC12E62B98007F7B8B /* Cacher.h */,
+				28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */,
+				28D7ACF60DDB3853001CB0EB /* GeoTrashViewController.h */,
 				FFA7E97F12CCFF6D00BFBC7B /* Reachability.h */,
 				FFA7E98012CCFF6D00BFBC7B /* Reachability.m */,
 				FFA7E95312CCFF3500BFBC7B /* ASIAuthenticationDialog.h */,
@@ -141,8 +162,6 @@
 				FFA7E96612CCFF3500BFBC7B /* ASIProgressDelegate.h */,
 				1D3623240D0F684500981E51 /* GeoTrashAppDelegate.h */,
 				1D3623250D0F684500981E51 /* GeoTrashAppDelegate.m */,
-				28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */,
-				28D7ACF60DDB3853001CB0EB /* GeoTrashViewController.h */,
 				FFA7E75312CB824F00BFBC7B /* Location.h */,
 				FFA7E75412CB824F00BFBC7B /* Location.m */,
 				FFF8F0A112D8ADD6005F0A1A /* MainViewController.h */,
@@ -171,10 +190,6 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				FFA7E99F12CDF1E900BFBC7B /* CFNetwork.framework */,
-				FFA7E9A112CDF1F500BFBC7B /* SystemConfiguration.framework */,
-				FFA7E9A312CDF20200BFBC7B /* MobileCoreServices.framework */,
-				FFA7E9A512CDF21C00BFBC7B /* libz.1.2.3.dylib */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -191,7 +206,10 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FFA1D08D12E6191D007F7B8B /* LocCache.sql */,
+				F33DFCAF1308169000A33A2F /* Cache.sql */,
+				F33DFC91130813AF00A33A2F /* AnimalDatabase.sql */,
+				F33DFC0D130807C900A33A2F /* Cache.sqlite */,
+				FFA6EAC813045EAE007BD0C3 /* LocCache.sql */,
 				FF06583012E361F80061367E /* AnnotationViewController.xib */,
 				FFF8F0A312D8ADD6005F0A1A /* MainViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
@@ -204,11 +222,16 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FFA7E99F12CDF1E900BFBC7B /* CFNetwork.framework */,
+				FFA7E9A112CDF1F500BFBC7B /* SystemConfiguration.framework */,
+				FFA7E9A312CDF20200BFBC7B /* MobileCoreServices.framework */,
+				FFA7E9A512CDF21C00BFBC7B /* libz.1.2.3.dylib */,
 				FF6FD0D812C3A8AE00B69FA8 /* MapKit.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
 				FF6FD0FC12C3A8E500B69FA8 /* CoreLocation.framework */,
+				FFA1D0B812E627BA007F7B8B /* libsqlite3.0.dylib */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -266,7 +289,10 @@
 				FFA7E71412CB620700BFBC7B /* GeoTrashViewController.xib in Resources */,
 				FFF8F0A512D8ADD6005F0A1A /* MainViewController.xib in Resources */,
 				FF06583212E361F80061367E /* AnnotationViewController.xib in Resources */,
-				FFA1D08E12E6191D007F7B8B /* LocCache.sql in Resources */,
+				FFA6EAC913045EAE007BD0C3 /* LocCache.sql in Resources */,
+				F33DFC0E130807C900A33A2F /* Cache.sqlite in Resources */,
+				F33DFC92130813AF00A33A2F /* AnimalDatabase.sql in Resources */,
+				F33DFCB01308169000A33A2F /* Cache.sql in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +319,8 @@
 				FFF8F0A412D8ADD6005F0A1A /* MainViewController.m in Sources */,
 				FF21637C12E1CD6700305C74 /* Annotation.m in Sources */,
 				FF06583112E361F80061367E /* AnnotationViewController.m in Sources */,
+				FFA1D0BE12E62B98007F7B8B /* Cacher.m in Sources */,
+				FF62F34412FF3FDB0022FEAF /* TrashPiece.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

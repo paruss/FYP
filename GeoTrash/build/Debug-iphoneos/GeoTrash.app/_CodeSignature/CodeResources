@@ -4,13 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AnimalDatabase.sql</key>
+		<data>
+		cZOgpQsweIZWGLfcvOlSqL4kgbA=
+		</data>
 		<key>AnnotationViewController.nib</key>
 		<data>
 		b4iNpg5XQuD47S2J2ued0/zpJoY=
 		</data>
+		<key>Cache.sql</key>
+		<data>
+		wocTU5w1wlrh6MssTsG1v9Yi5/o=
+		</data>
 		<key>GeoTrashViewController.nib</key>
 		<data>
-		+Fto7cvsQ5hcMrlFfxqvuZPpLOQ=
+		zUxB5S0Yd0xR575/n8Tgmi53uXc=
+		</data>
+		<key>LocCache.sql</key>
+		<data>
+		isp3U8bQLb4hDTCxYPNYTIlG9Pg=
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
