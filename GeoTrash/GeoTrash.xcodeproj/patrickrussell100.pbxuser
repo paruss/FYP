@@ -15,9 +15,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1020, 4602}}";
-			sepNavSelRange = "{9199, 0}";
-			sepNavVisRange = "{7340, 1095}";
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 4706}}";
+			sepNavSelRange = "{9070, 0}";
+			sepNavVisRange = "{8836, 1012}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -114,6 +114,9 @@
 			F33DFCDC1308194E00A33A2F /* PBXTextBookmark */ = F33DFCDC1308194E00A33A2F /* PBXTextBookmark */;
 			F33DFCE4130819CE00A33A2F /* PBXTextBookmark */ = F33DFCE4130819CE00A33A2F /* PBXTextBookmark */;
 			F33DFCE5130819CE00A33A2F /* PBXTextBookmark */ = F33DFCE5130819CE00A33A2F /* PBXTextBookmark */;
+			F33DFCE91308594D00A33A2F /* PBXTextBookmark */ = F33DFCE91308594D00A33A2F /* PBXTextBookmark */;
+			F33DFCEA1308594D00A33A2F /* PBXTextBookmark */ = F33DFCEA1308594D00A33A2F /* PBXTextBookmark */;
+			F33DFCEB1308594D00A33A2F /* PBXTextBookmark */ = F33DFCEB1308594D00A33A2F /* PBXTextBookmark */;
 			F383B727130556E100FEA5C9 = F383B727130556E100FEA5C9 /* PBXTextBookmark */;
 			F383B728130556E100FEA5C9 = F383B728130556E100FEA5C9 /* PBXBookmark */;
 			F383B734130712AE00FEA5C9 = F383B734130712AE00FEA5C9 /* PBXTextBookmark */;
@@ -166,7 +169,7 @@
 		ignoreCount = 0;
 		lineNumber = 147;
 		location = GeoTrash;
-		modificationTime = 319297906.761597;
+		modificationTime = 319298003.517621;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
@@ -666,6 +669,33 @@
 		vrLen = 2048;
 		vrLoc = 0;
 	};
+	F33DFCE91308594D00A33A2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA1D0BD12E62B98007F7B8B /* Cacher.m */;
+		name = "Cacher.m: 170";
+		rLen = 51;
+		rLoc = 5986;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 137;
+	};
+	F33DFCEA1308594D00A33A2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */;
+		rLen = 0;
+		rLoc = 297;
+		rType = 1;
+	};
+	F33DFCEB1308594D00A33A2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */;
+		name = "GeoTrashViewController.m: 289";
+		rLen = 0;
+		rLoc = 9070;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 8836;
+	};
 	F383B6E9130552B300FEA5C9 /* GeoTrash */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -760,9 +790,9 @@
 	};
 	FFA1D0BD12E62B98007F7B8B /* Cacher.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1328, 3393}}";
-			sepNavSelRange = "{5780, 0}";
-			sepNavVisRange = "{4538, 1818}";
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 3341}}";
+			sepNavSelRange = "{5986, 51}";
+			sepNavVisRange = "{137, 1108}";
 			sepNavWindowFrame = "{{1, 4}, {1279, 771}}";
 		};
 	};
